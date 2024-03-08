@@ -22,5 +22,11 @@ Description of the work process -
 6. I created the simulation with the Auxetic structure I chose using the Python programming language.
 
 
+The auxetic pattern I chose :
 
 ![Pattern 2](https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-49da-8432-406719237cb4)
+
+
+Cutting the fabric with laser according to the Auxestic structure :
+
+<img width="411" alt="Cutting fabric with laser" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
