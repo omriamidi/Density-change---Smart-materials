@@ -21,3 +21,6 @@ Description of the work process -
 5. I learned to use the software and built small projects so that I would be familiar with the tools it has.
 6. I created the simulation with the Auxetic structure I chose using the Python programming language.
 
+
+
+![Pattern 2](https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-49da-8432-406719237cb4)
