@@ -32,7 +32,7 @@ Cutting the fabric with laser according to the Auxestic pattern :
 <img width="411" alt="Cutting fabric with laser" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
 
 
-Analytical calculations :
+Analytical calculations (original photo):
 
 <img width="706" alt="צילום מסך 2024-03-08 ב-20 19 14" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/017cc7bc-9dc8-49df-9e7c-6362a969147b">
 
