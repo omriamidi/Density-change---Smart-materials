@@ -14,8 +14,10 @@ and we will not have to cut the fabrics in reality.
 Description of the work process -
 
 1. I have chosen familiar auxetic structures that I will use in the simulation.
-2. I performed analytical calculations of the auxetic structures so that I could put this data into the code.
-3. I chose a suitable software where I can write code and also see a visual output of the simulation.
-4. I learned to use the software and built small projects so that I would be familiar with the tools it has.
-5. I created the simulation with the Auxetic structure I chose using the Python programming language.
+2. I cut real fabric by laser cutting according to the Auxestic structure I chose to check the change that happens in the fabric following the cutting.
+   This is in order to see that indeed the fabric reacts as I expected and I will know that I do need to start the process of creating the simulation.
+3. I performed analytical calculations of the auxetic structures so that I could put this data into the code.
+4. I chose a suitable software where I can write code and also see a visual output of the simulation.
+5. I learned to use the software and built small projects so that I would be familiar with the tools it has.
+6. I created the simulation with the Auxetic structure I chose using the Python programming language.
 
