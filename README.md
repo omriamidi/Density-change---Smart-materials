@@ -22,11 +22,19 @@ Description of the work process -
 6. I created the simulation with the Auxetic structure I chose using the Python programming language.
 
 
-The auxetic pattern I chose :
+The Auxetic pattern I chose :
 
 ![Pattern 2](https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-49da-8432-406719237cb4)
 
 
-Cutting the fabric with laser according to the Auxestic structure :
+Cutting the fabric with laser according to the Auxestic pattern :
 
 <img width="411" alt="Cutting fabric with laser" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
+
+Analytical calculations :
+
+<img width="706" alt="צילום מסך 2024-03-08 ב-20 19 14" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/017cc7bc-9dc8-49df-9e7c-6362a969147b">
+
+What does working in the rhino software look like?
+
+![smart materials 1](https://github.com/omriamidi/Tray_Robot/assets/111886837/4eea14e2-1d7d-4312-8903-e2b3d12828e9)
