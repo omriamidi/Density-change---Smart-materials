@@ -25,7 +25,7 @@ and we will not have to cut the fabrics in reality.
 ### The Auxetic pattern I chose :
 
 <p align="center">
-![Pattern 2](https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-49da-8432-406719237cb4)
+img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-49da-8432-406719237cb4">
 </p>
 
 ### Cutting the fabric with laser according to the Auxestic pattern :
