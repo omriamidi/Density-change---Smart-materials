@@ -15,7 +15,7 @@ and we will not have to cut the fabrics in reality.
 
 An auxetic material, unlike common elastic materials, when compressed (expanded) in a given direction, compresses (expands) in the perpendicular direction
 
-### The principles of auxetic structure - 
+### The principles of Auxetic structure - 
 
 <p align="center">
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/be044f48-f523-4c7e-9f20-023fbe57922c">
