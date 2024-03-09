@@ -52,7 +52,7 @@ and we will not have to cut the fabrics in reality.
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/4eea14e2-1d7d-4312-8903-e2b3d12828e9">
 </p>
 
-### Part of the software simulation:
+### One of the first stages of developing the simulation:
 
 <p align="center">
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/b9b65870-12e5-49c1-ad8e-01a46bf511c9">
