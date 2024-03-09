@@ -4,12 +4,22 @@ that affect the characteristics of the fabric.
 
 ### Background -
 
-Creating a simulation of fabrics cut according to auxetic structures in order to test the programming of changing the density of the material in the fabric.
+Creating a simulation of fabrics cut according to Auxetic structures in order to test the programming of changing the density of the material in the fabric.
 Ways taken into account in order to create the change in the material - cutting, blowing, heating and moisture.
 The purpose of the project is to shorten the process of researching auxetic patterns in that any change can be made in the simulation easily
 and we will not have to cut the fabrics in reality.
 
 - Working with Rhino - Grasshopper using python and Rhino API
+
+### What is an Auxetic structure ?
+
+An auxetic material, unlike common elastic materials, when compressed (expanded) in a given direction, compresses (expands) in the perpendicular direction
+
+### The principles of auxetic structure - 
+
+<p align="center">
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/be044f48-f523-4c7e-9f20-023fbe57922c">
+</p>
 
 ### Description of the work process -
 
