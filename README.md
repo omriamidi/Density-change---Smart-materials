@@ -54,7 +54,9 @@ and we will not have to cut the fabrics in reality.
 
 ### Part of the software simulation:
 
-[Untitled - Rhino 7 Educational - [Top] 2023-06-04 12-08-08.MOV.zip](https://github.com/omriamidi/Tray_Robot/files/14542561/Untitled.-.Rhino.7.Educational.-.Top.2023-06-04.12-08-08.MOV.zip)
+<p align="center">
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/b9b65870-12e5-49c1-ad8e-01a46bf511c9">
+</p>
 
 
 Note - 
