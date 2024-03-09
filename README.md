@@ -34,7 +34,7 @@ and we will not have to cut the fabrics in reality.
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
 </p>
 
-### Analytical calculations (original photo of the calculations):
+### Analytical calculations (original photo of the calculations) :
 
 <p align="center">
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/99a31c91-de9b-4247-815b-46214e131216">
@@ -46,13 +46,13 @@ and we will not have to cut the fabrics in reality.
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/bccf74c4-1bc5-42f2-9fdc-0a0bce68b16d">
 </p>
 
-### What does working in the rhino software look like?
+### What does working in the rhino software look like ?
 
 <p align="center">
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/4eea14e2-1d7d-4312-8903-e2b3d12828e9">
 </p>
 
-### One of the first stages of developing the simulation:
+### One of the first stages of developing the simulation :
 
 <p align="center">
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/b9b65870-12e5-49c1-ad8e-01a46bf511c9">
