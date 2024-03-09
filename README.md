@@ -50,3 +50,7 @@ What does working in the rhino software look like?
 Part of the software simulation:
 
 [Untitled - Rhino 7 Educational - [Top] 2023-06-04 12-08-08.MOV.zip](https://github.com/omriamidi/Tray_Robot/files/14542561/Untitled.-.Rhino.7.Educational.-.Top.2023-06-04.12-08-08.MOV.zip)
+
+
+Note - 
+Unfortunately, I don't have the possibility to upload the simulation in full because it is only in the rhino grasshopper software and I cannot display it on this platform.
