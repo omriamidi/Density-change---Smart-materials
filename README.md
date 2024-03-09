@@ -31,25 +31,25 @@ img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/61073b85-3848-
 ### Cutting the fabric with laser according to the Auxestic pattern :
 
 <p align="center">
-<img width="411" alt="Cutting fabric with laser" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
 </p>
 
 ### Analytical calculations (original photo of the calculations):
 
 <p align="center">
-![IMG_2761](https://github.com/omriamidi/Tray_Robot/assets/111886837/99a31c91-de9b-4247-815b-46214e131216)
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/99a31c91-de9b-4247-815b-46214e131216">
 </p>
 
 ### Creating the Auxestic structure in the software according to the analytical calculations using Python :
 
 <p align="center">
-<img width="533" alt="צילום מסך 2024-03-08 ב-21 50 25" src="https://github.com/omriamidi/Tray_Robot/assets/111886837/bccf74c4-1bc5-42f2-9fdc-0a0bce68b16d">
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/bccf74c4-1bc5-42f2-9fdc-0a0bce68b16d">
 </p>
 
 ### What does working in the rhino software look like?
 
 <p align="center">
-![smart materials 1](https://github.com/omriamidi/Tray_Robot/assets/111886837/4eea14e2-1d7d-4312-8903-e2b3d12828e9)
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/4eea14e2-1d7d-4312-8903-e2b3d12828e9">
 </p>
 
 ### Part of the software simulation:
