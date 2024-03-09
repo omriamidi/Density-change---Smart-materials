@@ -34,6 +34,12 @@ and we will not have to cut the fabrics in reality.
 <img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/fc9613ec-5355-412d-a5bb-0141d7c56de7">
 </p>
 
+### The effect of the acoustic structure on the fabric that we would like to implement in the simulation:
+
+<p align="center">
+<img src="https://github.com/omriamidi/Tray_Robot/assets/111886837/0664af5b-43af-41f2-94c3-f6eb7f13ff12">
+</p>
+
 ### Analytical calculations (original photo of the calculations):
 
 <p align="center">
